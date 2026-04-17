@@ -1,4 +1,4 @@
-# Profile Card – HNG Internship Stage 0 Task
+# Profile Card – HNG Internship Stage 1 Task
 
 ## 💡 Project Overview
 This is my Stage 0 task for the "HNG Internship (Frontend Track)".  
